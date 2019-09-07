@@ -18,7 +18,9 @@
       <pubDate>Sat, 07 Sep 2019 03:44:56 +0000</pubDate>
       
       <guid>/posts/hello/</guid>
-      <description>Hello world! This is my first post using Hugo.</description>
+      <description>Hello world! This is my first post using Hugo. This is just an example blog post without any actual content.
+As far as my vision on this blog, I want to start share my opinions and experiences in my day to day work – software development.
+Stay tuned!</description>
     </item>
     
   </channel>
