@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>/tags/personal/</loc>
+    <lastmod>2019-09-07T03:44:56+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/</loc>
     <lastmod>2019-09-07T03:44:56+00:00</lastmod>
   </url>
@@ -23,7 +28,7 @@
   </url>
   
   <url>
-    <loc>/tags/untagged/</loc>
+    <loc>/tags/test/</loc>
     <lastmod>2019-09-07T03:44:56+00:00</lastmod>
   </url>
   
