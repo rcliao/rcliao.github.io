@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Non Player Blog</title>
+    <title>Categories on Non Play Blog</title>
     <link>/categories/</link>
-    <description>Recent content in Categories on Non Player Blog</description>
+    <description>Recent content in Categories on Non Play Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Eric Liao</copyright>
+    <copyright>&amp;copy; 2020 Eric Liao</copyright>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
